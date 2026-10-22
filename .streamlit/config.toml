@@ -1,0 +1,25 @@
+# Values match campusnet/theme.py (a test checks they agree).
+[theme]
+base = "dark"
+primaryColor = "#F29A38"
+backgroundColor = "#111315"
+secondaryBackgroundColor = "#191C1F"
+textColor = "#ECE9E2"
+borderColor = "#30353A"
+baseRadius = "4px"
+font = "sans-serif"
+codeFont = "Cascadia Mono, Consolas, monospace"
+codeTextColor = "#ECE9E2"
+codeBackgroundColor = "#202428"
+
+[theme.sidebar]
+backgroundColor = "#090A0B"
+secondaryBackgroundColor = "#101214"
+textColor = "#ECE9E2"
+borderColor = "#30353A"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
